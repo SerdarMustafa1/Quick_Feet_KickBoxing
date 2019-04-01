@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.16.4",
-    "nodemon": "^1.18.10"
-  },
-  "devDependencies": {
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0"
-  },
   "scripts": {
-    "start": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerdarMustafa1/Quick_Feet_KickBoxing.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerdarMustafa1/Quick_Feet_KickBoxing/issues"
+  },
+  "homepage": "https://github.com/SerdarMustafa1/Quick_Feet_KickBoxing#readme"
 }
